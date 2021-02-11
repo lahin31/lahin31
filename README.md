@@ -1,6 +1,6 @@
 ## Muhammad Lahin
 
-Web Developer. I create projects by experimenting various JavaScript Technologies. I am also a Mentor, Community Maintainer.
+Web Developer. Currently working at WPManageNinja. I create projects by experimenting various Software technology. I have a huge passion for Software Development, Software Testing, Web Security and Web performance. I am also a Mentor, Community Maintainer.
 
 ![Muhammad Lahin's github stats](https://github-readme-stats.vercel.app/api?username=lahin31&count_private=true)
 
