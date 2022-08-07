@@ -1,6 +1,20 @@
 ## Muhammad Lahin
 
-Software Engineer. I create projects by experimenting various Software technology. I have a huge passion for Software Development, Software Testing, Web Security and Web performance. I am also a Mentor, Community Maintainer.
+Software Engineer. Currently working at Technext Limited as a Senior Software Engineer. I create projects by experimenting various Software technology. I have a huge passion for Software Development, Database Design, Rest API Design, Software Testing (with TDD), Web Security and Web performance. I am also a Mentor, Community Maintainer.
+
+* Web Development:-
+    * User Interface/Experience: HTML5, CSS3, SASS, CSS Animation, JavaScript, React, Framer Motion, Next.js, Vue.js
+    * Server Side: Node.js, Express.js, PHP, Laravel
+    * Database: SQL/MySQL, MongoDB
+    * CMS: WordPress
+    * Testing Framework: Jest, React Testing Library
+    * Security: Brute Force Attack, Token Based Authentication, XSS or Cross Site Scripting and JavaScript Package Vulnerabilities.
+
+* Some Repository:-
+    * System Design Bangla - https://github.com/lahin31/system-design-bangla
+    * Node.js Questions and Answers - https://github.com/JSExplore/nodejs-questions-answers
+    * DS/Algo in JS - https://github.com/lahin31/ds-algo-in-js
+    * CI/CI pipeline with GitHub Actions for Node.js app - https://github.com/lahin31/ci-cd-github-action
 
 ![Muhammad Lahin's github stats](https://github-readme-stats.vercel.app/api?username=lahin31&count_private=true)
 
