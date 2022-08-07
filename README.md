@@ -6,6 +6,7 @@ Software Engineer. Currently working at Technext Limited as a Senior Software En
     * User Interface/Experience: HTML5, CSS3, SASS, CSS Animation, JavaScript, React, Framer Motion, Next.js, Vue.js
     * Server Side: Node.js, Express.js, PHP, Laravel
     * Database: SQL/MySQL, MongoDB
+    * Cloud: AWS
     * CMS: WordPress
     * Testing Framework: Jest, React Testing Library
     * Security: Brute Force Attack, Token Based Authentication, XSS or Cross Site Scripting and JavaScript Package Vulnerabilities.
