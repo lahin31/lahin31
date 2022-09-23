@@ -3,13 +3,13 @@
 Software Engineer. Currently working at Technext Limited as a Senior Software Engineer. I create projects by experimenting various Software technology. I have a huge passion for Software Development, Database Design, Rest API Design, Software Testing (with TDD), Web Security and Web performance. I am also a Mentor, Community Maintainer.
 
 * Web Development:-
-    * User Interface/Experience: HTML5, CSS3, SASS, CSS Animation, JavaScript, React, Framer Motion, Next.js, Vue.js
+    * User Interface/Experience: HTML5, CSS3, SASS, CSS Animation, JavaScript, React, Next.js, Vue.js
     * Server Side: Node.js, Express.js, PHP, Laravel
-    * Database: SQL/MySQL, MongoDB
+    * Database: SQL, MySQL, MongoDB
     * Cloud: AWS
     * CI/CD: GitHub Action
     * Testing Framework: Jest, React Testing Library
-    * Security: Brute Force Attack, Token Based Authentication, XSS or Cross Site Scripting and JavaScript Package Vulnerabilities.
+    * Security: Brute Force Attack, Token Based Authentication, XSS or Cross Site Scripting and JavaScript Package Vulnerabilities
     * CMS: WordPress
     
 * Gist: https://gist.github.com/lahin31
@@ -25,6 +25,6 @@ Software Engineer. Currently working at Technext Limited as a Senior Software En
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lahin31&layout=compact)
 
-Blogs [medium](https://medium.com/@lahin31), [dev.to](https://dev.to/lahin31) & [codemacaw](http://codemacaw.com/)
+* Blogs [medium](https://medium.com/@lahin31), [dev.to](https://dev.to/lahin31) & [codemacaw](http://codemacaw.com/)
 
 Find me on [twitter](https://twitter.com/lahin31)
