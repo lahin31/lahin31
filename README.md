@@ -7,9 +7,10 @@ Software Engineer. Currently working at Technext Limited as a Senior Software En
     * Server Side: Node.js, Express.js, PHP, Laravel
     * Database: SQL/MySQL, MongoDB
     * Cloud: AWS
-    * CMS: WordPress
+    * CI/CD: GitHub Action
     * Testing Framework: Jest, React Testing Library
     * Security: Brute Force Attack, Token Based Authentication, XSS or Cross Site Scripting and JavaScript Package Vulnerabilities.
+    * CMS: WordPress
 
 * Some Repository:-
     * System Design Bangla - https://github.com/lahin31/system-design-bangla
