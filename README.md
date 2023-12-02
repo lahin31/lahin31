@@ -7,11 +7,11 @@ Passionate Software Engineer. Currently working at Yo Tech as a Senior Software 
     * Server Side: Node.js, Express.js.
     * Database: NoSQL, MongoDB, SQL, MySQL.
     * Cloud: AWS.
-    * Cloud Compute Platform: AWS EC2.
+    * Cloud Compute Platform: AWS EC2, Digitalocean Droplet.
     * Cloud Storage: AWS S3.
     * CI/CD: GitHub Actions, BitBucket.
     * Testing Framework: Jest, React Testing Library.
-    * Security: AWS VPC, AWS Subnet, AWS WAF, Brute Force Attack, Token Based Authentication, XSS or Cross Site Scripting and JavaScript Package Vulnerabilities.
+    * Security: AWS VPC, AWS Subnet, AWS WAF, Brute Force Attack, Token Based Authentication, XSS or Cross Site Scripting, OWASP Vulnerabilities and JavaScript Package Vulnerabilities.
     * CMS: WordPress.
     
 * Gist: https://gist.github.com/lahin31
@@ -24,7 +24,7 @@ Passionate Software Engineer. Currently working at Yo Tech as a Senior Software 
     * CI/CI pipeline with GitHub Actions for Node.js app - https://github.com/lahin31/ci-cd-github-action
  
 - Blogs
-  - Database
+  - Database Engineering
     - [Atomicity in ACID](https://codemacaw.com/2023/12/02/atomicity-in-acid/)
     - [Isolation in ACID](https://codemacaw.com/2023/12/02/isolation-in-acid)
     - [What is B-tree & B+ tree in DBMS?](https://codemacaw.com/2023/06/24/what-is-b-tree-b-tree-in-dbms/)
