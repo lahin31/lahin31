@@ -25,6 +25,7 @@ Passionate Software Engineer. Currently working at Yo Tech as a Senior Software 
  
 - Blogs
   - Database
+    - [Atomicity in ACID](https://codemacaw.com/2023/12/02/atomicity-in-acid/)
     - [What is B-tree & B+ tree in DBMS?](https://codemacaw.com/2023/06/24/what-is-b-tree-b-tree-in-dbms/)
     - [Database Indexing makes DB Query faster](https://codemacaw.com/2023/04/04/database-indexing-makes-db-query-faster)
     - [Primary Index and Cluster Index](https://codemacaw.com/2023/04/12/primary-index-and-cluster-index/)
@@ -47,8 +48,9 @@ Passionate Software Engineer. Currently working at Yo Tech as a Senior Software 
     - [Prevent unnecessary re-rendering when using Context API](https://codemacaw.com/2021/11/21/prevent-unnecessary-re-rendering-when-using-context-api/)
   - Node.js
     - [Introduction of NodeJS Streams](https://codemacaw.com/2019/11/29/introduction-of-nodejs-streams/)
+  - Data Structure
+    - [Understanding the Hash Table](https://codemacaw.com/2020/02/17/understanding-the-hash-table/)
     
-
 ![Muhammad Lahin's github stats](https://github-readme-stats.vercel.app/api?username=lahin31&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lahin31&layout=compact)
