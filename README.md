@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is Lahin. Welcome</h1>
 
-Passionate Software Engineer. Currently working at Technext Limited as a Senior Software Engineer. Previously WPManageNinja/Authlab, ShohozDeal. Started my career back in 2018. I have a huge passion for Software Engineering, Database Engineering, DevOps, Web Security and Web performance. I am also a Mentor, Community Maintainer (maintaining a small community).
+Passionate Software Engineer. Currently working at Yo Tech as a Senior Software Engineer. Previously Technext, WPManageNinja/Authlab & ShohozDeal. Started my career back in 2018. I have a huge passion for Software Engineering, Database Engineering, DevOps, Web Security and Web performance. I am also a Mentor, Community Maintainer (maintaining a small community).
 
 * Web Development:-
     * User Interface/Experience: HTML5, CSS3, SASS, CSS Animation, JavaScript, React, Next.js, Vue.js.
@@ -23,7 +23,31 @@ Passionate Software Engineer. Currently working at Technext Limited as a Senior 
     * JavaScript Promise Tips & Tricks - https://github.com/lahin31/js-promise-tips-tricks
     * CI/CI pipeline with GitHub Actions for Node.js app - https://github.com/lahin31/ci-cd-github-action
  
-* I have my Software Engineering/Development blog http://codemacaw.com/
+- Blogs
+  - Database
+    - [What is B-tree & B+ tree in DBMS?](https://codemacaw.com/2023/06/24/what-is-b-tree-b-tree-in-dbms/)
+    - [Database Indexing makes DB Query faster](https://codemacaw.com/2023/04/04/database-indexing-makes-db-query-faster)
+    - [Primary Index and Cluster Index](https://codemacaw.com/2023/04/12/primary-index-and-cluster-index/)
+    - [Understand Database Replication](https://codemacaw.com/2023/06/02/understand-database-replication/)
+    - [Understanding MongoDB Modifiers](https://codemacaw.com/2021/06/11/understanding-mongodb-modifiers/)
+  - Computer Network
+    - [What is IPv4 IP Address?](https://codemacaw.com/2023/02/19/what-is-ipv4-ip-address/)
+    - [CIDR notation and Subnetting in AWS VPC](https://codemacaw.com/2023/05/13/cidr-notation-and-subnetting-in-aws-vpc/)
+    - [Integrate and run a Node and React application to AWS EC2 instance](https://codemacaw.com/2023/08/06/integrate-and-run-a-node-and-react-application-to-aws-ec2-instance/)
+  - JavaScript
+    - [Understanding AST with JavaScript](https://codemacaw.com/2019/10/16/understanding-ast-with-js/)
+    - [Difference between Undefined & Null in JavaScript](https://codemacaw.com/2019/11/11/difference-between-undefined-null-in-javascript/)
+    - [JavaScript Expression & Statement](https://codemacaw.com/2019/11/14/javascript-expression-statement/)
+    - [Exploring Promise.all() and Promise.allSettled()](https://codemacaw.com/2021/03/24/exploring-promise-all-and-promise-allsettled/)
+    - [A quick overview of JavaScript Engine](https://codemacaw.com/2022/04/18/a-quick-overview-of-javascript-engine/)
+    - [JavaScript Promise Tips & Tricks](https://codemacaw.com/2023/03/02/javascript-promises-tips-tricks/)
+  - React
+    - [Avoid Prop Drilling using Composition](https://codemacaw.com/2019/12/06/avoid-prop-drilling-using-composition/)
+    - [Testing events with react testing library](https://codemacaw.com/2021/11/12/testing-events-with-react-testing-library/)
+    - [Prevent unnecessary re-rendering when using Context API](https://codemacaw.com/2021/11/21/prevent-unnecessary-re-rendering-when-using-context-api/)
+  - Node.js
+    - [Introduction of NodeJS Streams](https://codemacaw.com/2019/11/29/introduction-of-nodejs-streams/)
+    
 
 ![Muhammad Lahin's github stats](https://github-readme-stats.vercel.app/api?username=lahin31&count_private=true)
 
