@@ -25,9 +25,10 @@ Passionate Software Engineer. Currently working at Yo Tech as a Senior Software 
  
 - Blogs
   - Database Engineering
-    - [Atomicity in ACID](https://codemacaw.com/2023/12/02/atomicity-in-acid/)
+    - [Atomicity in ACID](https://codemacaw.com/2023/12/02/atomicity-in-acid)
+    - [Consistency in ACID](https://codemacaw.com/2023/12/03/consistency-in-acid)
     - [Isolation in ACID](https://codemacaw.com/2023/12/02/isolation-in-acid)
-    - [What is B-tree & B+ tree in DBMS?](https://codemacaw.com/2023/06/24/what-is-b-tree-b-tree-in-dbms/)
+    - [What is B-tree & B+ tree in DBMS?](https://codemacaw.com/2023/06/24/what-is-b-tree-b-tree-in-dbms)
     - [Database Indexing makes DB Query faster](https://codemacaw.com/2023/04/04/database-indexing-makes-db-query-faster)
     - [Primary Index and Cluster Index](https://codemacaw.com/2023/04/12/primary-index-and-cluster-index/)
     - [Understand Database Replication](https://codemacaw.com/2023/06/02/understand-database-replication/)
