@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is Lahin. Welcome</h1>
 
-Passionate Software Engineer. Currently working at Yo Tech as a Senior Software Engineer. Previously Technext, WPManageNinja/Authlab & ShohozDeal. Started my career back in 2018. I have a huge passion for Software Engineering, Database Engineering, DevOps, Web Security and Web performance. I am also a Mentor, Community Maintainer (maintaining a small community).
+Passionate Software Engineer. Started my career back in 2018. I have a huge passion for Software Engineering, Database Engineering, DevOps, Web Security and Web performance. I am also a Mentor, Community Maintainer (maintaining a small community).
 
 * Web Development:-
     * User Interface/Experience: HTML5, CSS3, SASS, CSS Animation, JavaScript, React, Next.js, Vue.js.
