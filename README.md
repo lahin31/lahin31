@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is Lahin. Welcome</h1>
 
-Passionate Software Engineer. Started my career back in 2018. I have a huge passion for Software Engineering, Database Engineering, DevOps, Web Security and Web performance. I am also a Mentor, Community Maintainer (maintaining a small community).
+Passionate Software Engineer. Started my career back in 2018. I have a huge passion for Software Engineering, Database Engineering, DevOps, Web Security and Web performance. I have experience of building large scale system, monolith application, cost effective infrustructure as well as security. I am also a Mentor, Community Maintainer (maintaining a small community).
 
 * Web Development:-
     * User Interface/Experience: HTML5, CSS3, SASS, CSS Animation, JavaScript, React, Next.js, Vue.js.
@@ -42,6 +42,8 @@ Passionate Software Engineer. Started my career back in 2018. I have a huge pass
   - Software Development
     - [Clean Code: Meaningful Names](https://codemacaw.com/clean-code-meaningful-names/)
     - [Clean Code: Functions](https://codemacaw.com/clean-code-functions/)
+  - Web Security
+    - [Security flaws that you should aware of when building a web application](https://codemacaw.com/security-flaws-that-you-should-aware-of-when-building-a-web-application/)
   - JavaScript
     - [Understanding AST with JavaScript](https://codemacaw.com/understanding-ast-with-js/)
     - [Difference between Undefined & Null in JavaScript](https://codemacaw.com/difference-between-undefined-null-in-javascript/)
