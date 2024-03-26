@@ -25,9 +25,9 @@ Passionate Software Engineer. Started my career back in 2018. I have a huge pass
  
 - Blogs
   - Database Engineering
-    - [Atomicity in ACID](https://codemacaw.com/2023/12/02/atomicity-in-acid)
-    - [Consistency in ACID](https://codemacaw.com/2023/12/03/consistency-in-acid)
-    - [Isolation in ACID](https://codemacaw.com/2023/12/02/isolation-in-acid)
+    - [Atomicity in ACID](https://codemacaw.com/atomicity-in-acid)
+    - [Consistency in ACID](https://codemacaw.com/consistency-in-acid)
+    - [Isolation in ACID](https://codemacaw.com/isolation-in-acid)
     - [How do databases ensure reliability?](https://codemacaw.com/2023/12/03/how-do-databases-ensure-reliability)
     - [What is B-tree & B+ tree in DBMS?](https://codemacaw.com/2023/06/24/what-is-b-tree-b-tree-in-dbms)
     - [Database Indexing makes DB Query faster](https://codemacaw.com/2023/04/04/database-indexing-makes-db-query-faster)
@@ -35,14 +35,17 @@ Passionate Software Engineer. Started my career back in 2018. I have a huge pass
     - [Understand Database Replication](https://codemacaw.com/2023/06/02/understand-database-replication/)
     - [Understanding MongoDB Modifiers](https://codemacaw.com/2021/06/11/understanding-mongodb-modifiers/)
   - Computer Network
-    - [What is IPv4 IP Address?](https://codemacaw.com/2023/02/19/what-is-ipv4-ip-address/)
-    - [CIDR notation and Subnetting in AWS VPC](https://codemacaw.com/2023/05/13/cidr-notation-and-subnetting-in-aws-vpc/)
-    - [Integrate and run a Node and React application to AWS EC2 instance](https://codemacaw.com/2023/08/06/integrate-and-run-a-node-and-react-application-to-aws-ec2-instance/)
+    - [What is IPv4 IP Address?](https://codemacaw.com/what-is-ipv4-ip-address/)
+    - [CIDR notation and Subnetting in AWS VPC](https://codemacaw.com/cidr-notation-and-subnetting-in-aws-vpc/)
+    - [Integrate and run a Node and React application to AWS EC2 instance](https://codemacaw.com/integrate-and-run-a-node-and-react-application-to-aws-ec2-instance/)
+  - Software Development
+    - [Clean Code: Meaningful Names](https://codemacaw.com/clean-code-meaningful-names/)
+    - [Clean Code: Functions](https://codemacaw.com/clean-code-functions/)
   - JavaScript
-    - [Understanding AST with JavaScript](https://codemacaw.com/2019/10/16/understanding-ast-with-js/)
-    - [Difference between Undefined & Null in JavaScript](https://codemacaw.com/2019/11/11/difference-between-undefined-null-in-javascript/)
-    - [JavaScript Expression & Statement](https://codemacaw.com/2019/11/14/javascript-expression-statement/)
-    - [Exploring Promise.all() and Promise.allSettled()](https://codemacaw.com/2021/03/24/exploring-promise-all-and-promise-allsettled/)
+    - [Understanding AST with JavaScript](https://codemacaw.com/understanding-ast-with-js/)
+    - [Difference between Undefined & Null in JavaScript](https://codemacaw.com/difference-between-undefined-null-in-javascript/)
+    - [JavaScript Expression & Statement](https://codemacaw.com/javascript-expression-statement/)
+    - [Exploring Promise.all() and Promise.allSettled()](https://codemacaw.com/exploring-promise-all-and-promise-allsettled/)
     - [A quick overview of JavaScript Engine](https://codemacaw.com/2022/04/18/a-quick-overview-of-javascript-engine/)
     - [JavaScript Promise Tips & Tricks](https://codemacaw.com/2023/03/02/javascript-promises-tips-tricks/)
   - React
