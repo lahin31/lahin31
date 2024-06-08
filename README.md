@@ -1,6 +1,10 @@
 <h1 align="center">Hi! My name is Lahin. Welcome</h1>
 
-Passionate Software Engineer. Started my career back in 2018. I have a huge passion for Software Engineering, Database Engineering, DevOps, Web Security and Web performance. I have experience of building large scale system, monolith application, cost effective infrustructure as well as security. I am also a Mentor, Community Maintainer (maintaining a small community).
+Passionate Software Engineer. Started my career back in 2018. I have a huge passion for Software Engineering, Database Engineering, Web Security and Web performance. I have experience of building large scale system, monolith application, cost effective infrustructure as well as security. I am also a Mentor, Community Maintainer (maintaining a small community).
+
+I am interested in how systems work, which is why I wrote [System Design Bangla](https://github.com/lahin31/system-design-bangla)
+
+If you want to discuss anything about software development, system design, etc., please reach out to me at muhammad.lahin@gmail.com.
 
 * Web Development:-
     * User Interface/Experience: HTML5, CSS3, SASS, CSS Animation, JavaScript, React, Next.js, Vue.js.
@@ -27,7 +31,7 @@ Passionate Software Engineer. Started my career back in 2018. I have a huge pass
   - Database Engineering
     - [Atomicity in ACID](https://codemacaw.com/atomicity-in-acid)
     - [Consistency in ACID](https://codemacaw.com/consistency-in-acid)
-    - [Understanding how multiple transactions work in a database](https://codemacaw.com/isolation-in-acid](https://codemacaw.com/understanding-how-multiple-transactions-work-in-a-database/)
+    - [Understanding how multiple transactions work in a database](https://codemacaw.com/understanding-how-multiple-transactions-work-in-a-database/)
     - [How do databases ensure reliability?](https://codemacaw.com/how-do-databases-ensure-reliability)
     - [What is B-tree & B+ tree in DBMS?](https://codemacaw.com/what-is-b-tree-b-tree-in-dbms)
     - [Database Indexing makes DB Query faster](https://codemacaw.com/database-indexing-makes-db-query-faster)
@@ -35,6 +39,7 @@ Passionate Software Engineer. Started my career back in 2018. I have a huge pass
     - [Database Performance: n+1 query problem](https://codemacaw.com/database-performance-n1-query-problem/)
     - [Understand Database Replication](https://codemacaw.com/understand-database-replication/)
     - [Understanding MongoDB Modifiers](https://codemacaw.com/understanding-mongodb-modifiers/)
+    - [Design a scalable, maintainable database schema with Database Normalization](https://codemacaw.com/design-a-scalable-maintainable-database-schema-with-database-normalization/)
   - Computer Network
     - [What is IPv4 IP Address?](https://codemacaw.com/what-is-ipv4-ip-address/)
     - [CIDR notation and Subnetting in AWS VPC](https://codemacaw.com/cidr-notation-and-subnetting-in-aws-vpc/)
