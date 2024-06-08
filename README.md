@@ -27,7 +27,7 @@ Passionate Software Engineer. Started my career back in 2018. I have a huge pass
   - Database Engineering
     - [Atomicity in ACID](https://codemacaw.com/atomicity-in-acid)
     - [Consistency in ACID](https://codemacaw.com/consistency-in-acid)
-    - [Isolation in ACID](https://codemacaw.com/isolation-in-acid)
+    - [Understanding how multiple transactions work in a database](https://codemacaw.com/isolation-in-acid](https://codemacaw.com/understanding-how-multiple-transactions-work-in-a-database/)
     - [How do databases ensure reliability?](https://codemacaw.com/how-do-databases-ensure-reliability)
     - [What is B-tree & B+ tree in DBMS?](https://codemacaw.com/what-is-b-tree-b-tree-in-dbms)
     - [Database Indexing makes DB Query faster](https://codemacaw.com/database-indexing-makes-db-query-faster)
