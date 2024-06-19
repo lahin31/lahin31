@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is Lahin. Welcome</h1>
 
-Passionate Software Engineer. Started my career back in 2018. I have a huge passion for Software Engineering, Database Engineering, Web Security and Web performance. I have experience of building large scale system, monolith application, cost effective infrustructure as well as security. I am also a Mentor, Community Maintainer (maintaining a small community).
+With over 6 years of experience in Software Engineering, I began my career as a JavaScript developer and have since developed my skills across multiple facets of the software development lifecycle. My expertise includes creating sophisticated user interfaces, designing efficient database schemas for both SQL and NoSQL databases, optimizing database performance in production environments, developing effective REST APIs, implementing Continuous Deployment, and ensuring robust security measures. I also have experience in maintaining and leading Engineering Teams.
 
 I am interested in how systems work, which is why I wrote [System Design Bangla](https://github.com/lahin31/system-design-bangla)
 
