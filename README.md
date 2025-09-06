@@ -1,5 +1,3 @@
-<h1 align="center">Hi! My name is Lahin. Welcome</h1>
-
 # 👨‍💻 Muhammad Lahin
 
 I am a **Software Engineer** with over **7 years of experience** in building scalable, secure, and efficient software systems.  
