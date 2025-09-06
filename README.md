@@ -1,4 +1,4 @@
-# 👨‍💻 Muhammad Lahin
+# 👨‍💻 Lahin
 
 I am a **Software Engineer** with over **7 years of experience** in building scalable, secure, and efficient software systems.  
 Passionate about **Requirement Analysis**, **Server-side Architecture**, **Database Design**, and **UI Architecture**, I started my career as a **JavaScript Developer** and have since expanded my expertise across the full software development lifecycle.
