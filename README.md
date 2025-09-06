@@ -1,7 +1,6 @@
 # 👨‍💻 Lahin
 
-I am a **Software Engineer** with over **7 
-years of professional experience.
+I am a **Software Engineer**.
 
 I am deeply interested in how systems work, which led me to author [System Design Bangla](https://github.com/lahin31/system-design-bangla).
 
